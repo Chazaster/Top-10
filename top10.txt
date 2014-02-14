@@ -1,0 +1,15 @@
+     16  cd ..
+     16  emacs +121 watsonL03.cpp
+     16  emacs +29 watsonP01.cpp
+     20  emacs +127 testproject.cpp
+     20  emacs README.md
+     22  ./P01.out
+     23  cd cs215s14
+     25  emacs +12 testproject.cpp
+     33  emacs watsonL03.cpp
+     44  ./L03.out
+     46  ./test.out
+     48  emacs watsonP01.cpp
+     59  g++ watsonL03.cpp -o L03.out
+     67  g++ watsonP01.cpp -o P01.out
+     89  g++ testproject.cpp -o test.out
